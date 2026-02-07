@@ -1,0 +1,5 @@
+for_fraud_predict
+for_fraud_predict\Scripts\activate
+Fraud_prediction
+
+uvicorn Fraud_prediction:app --reload
